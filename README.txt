@@ -6,10 +6,10 @@ This repository contains the final project files organized as follows:
 
 ## Folder Structure
 
-### `CADDGD`
+### CADDGD
 Contains the **data access component**.
 
-### `Memoria`
+### Memoria
 Contains:
 - the **project documentation in PDF format**
 - a folder with the **Word version**
@@ -17,7 +17,7 @@ Contains:
   - PNG format
   - draw.io format
 
-### `PROYECTO_COMPLETO`
+### PROYECTO_COMPLETO
 Contains:
 - CAD
 - POJOs
@@ -27,11 +27,6 @@ Contains:
 
 The **server-side implementation** can also be found together with the CAD in this folder.
 
-### `GODSBATTLE_PRESENTACION`
-Contains the **project presentation**.
-
-### `GodsBattle.apk`
-Contains the **Android APK file** for installation.
 
 ---
 
